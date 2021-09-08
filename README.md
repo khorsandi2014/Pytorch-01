@@ -1,4 +1,4 @@
-# Introduction to pytorch
+# Introduction to Pytorch
 by Ray Khorsandi
 | Topic | Demo | Exercise | Solution |
 |---------|-------------|-------------|-------------|
